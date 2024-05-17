@@ -1,14 +1,10 @@
 body {
 	background-color: dimgray;
-}
-h1 {
-	.caveat-eli-photo {
 	font-family: "Caveat", cursive;
 	font-optical-sizing: auto;
 	font-weight: 400;
 	font-style: normal;	
-}
-font-size: 32px;
+	font-size: 32px;
 }
 .scrollmenu {
 	width: 100%;
