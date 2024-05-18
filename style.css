@@ -3,7 +3,7 @@
 	src: url("https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Poetsen+One&display=swap");
 } 
 body { 
-	min-height: 1440px;
+	height: 920px;
 	background-color: rgb(56, 56, 56);
 }
 h1 {
