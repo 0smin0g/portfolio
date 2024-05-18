@@ -3,10 +3,10 @@
 	src: url("https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Poetsen+One&display=swap");
 } 
 body { 
-	background-color: rgb(56, 56, 56);
+	background-color: rgb(73, 73, 73);
 }
 #background {
-	background-color: rgb(49, 49, 49);
+	background-color: rgb(29, 29, 29);
 	width: 920px;
 	position: fixed;
 	align-self: center;
@@ -32,15 +32,15 @@ h1 {
 	width: 100%;
 	margin-bottom: 5px;
 	display: flex;
-	flex-direction: stroke;
+	flex-direction: row;
+    flex-wrap: nowrap;
 }
 .image {
-	height: 25%;
 	margin: 5px;
 	float: left;
 }
 .image img {
-	height: 50%;   
+	height: 256px;   
 /* 
 display: inline-block;  
 white-space: nowrap;
