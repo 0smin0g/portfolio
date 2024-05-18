@@ -35,11 +35,11 @@ h1 {
 .image img {
 	width: auto;
 	height: 100%;   
-    margin: 5px;
-    float: left;
-    /* 
-	display: inline-block;  
-    white-space: nowrap;
-    */
+    	margin: 5px;
+   	float: left;
+/* 
+display: inline-block;  
+white-space: nowrap;
+*/
 }	
 ::-webkit-scrollbar { display: none }
