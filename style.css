@@ -9,6 +9,7 @@ body {
 	background-color: rgb(49, 49, 49);
 	width: 920px;
 	position: fixed;
+	align-self: center;
 }
 h1 {
 	color: rgb(214,212,212);
@@ -23,7 +24,7 @@ h1 {
 .scrollmenu {
 	width: 100%;	
 	white-space: nowrap;
-	overflow-x: auto;
+	overflow-x: scroll;
 	overflow-y: hidden;
 	-webkit-overflow-scrolling: touch;
 }
